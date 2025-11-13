@@ -42,9 +42,9 @@ const Navbar = () => {
     <header>
       <Link to="/" className="logo-container">
         <span className="logo-text">Talent</span>
-        <img 
-          src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" 
-          alt="TalentConnect Logo" 
+        <img
+          src="/assets/logo.png"
+          alt="TalentConnect Logo"
         />
         <span className="logo-text">Connect</span>
       </Link>
